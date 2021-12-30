@@ -1,0 +1,10 @@
+.icon {
+    border-radius: 15px;
+    margin: 40px;
+    height: 200px;
+    width: 220px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 2px 7px 9px 0px rgba(99, 110, 37, 0.55);
+  }
